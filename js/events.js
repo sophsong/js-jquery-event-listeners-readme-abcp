@@ -1,7 +1,7 @@
 //define functions here
 
-$(document).ready(function(){
+$(getIt).ready(function(){alert("you made a mistake")
 
-// getIt
+//
 
 });
