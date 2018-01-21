@@ -1,6 +1,6 @@
 //define functions here
-var getIt= 
-$(getIt).ready(function(){alert("you made a mistake")
+function= ("getIt")
+$(getIt).ready(function(){alert("you sure you want to submit")
 
 //
 
